@@ -1,5 +1,5 @@
 # :computer:  Neeraj319
-I'm a full-stack web developer interested in cloud, database and machine learning.
+I'm a backend developer . I'm intrested in machine learning and maths
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj319" alt="Neeraj319" /> </p>
 
