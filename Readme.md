@@ -1,1 +1,1 @@
-![alt text](/img.svg)
+![alt text](/img.png)
