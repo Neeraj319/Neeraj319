@@ -1,1 +1,1 @@
-![alt text](/img.png)
+I like computers.
